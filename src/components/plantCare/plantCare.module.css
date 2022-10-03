@@ -1,0 +1,36 @@
+.care{
+    display: flex;
+    flex-direction: row;
+    gap: 67px;
+    justify-content: center;
+    margin-top: 58px;
+}
+.filters{
+    width: 261px;
+}
+.h3{
+    text-align: left !important;
+ margin-bottom: 24px;
+}
+.search_container{
+    margin-bottom: 62px;
+}
+.p{
+    margin-bottom: 10px !important;
+}
+
+.cardsfield{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-around;
+    justify-content: space-around;
+    flex-direction: row;
+    row-gap: 45px;
+    margin-bottom: 77px;
+}
+
+.pagination_bar{
+    display: block;
+    justify-content: center;
+    margin-bottom: 62px;
+}

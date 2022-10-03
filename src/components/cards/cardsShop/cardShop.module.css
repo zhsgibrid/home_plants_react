@@ -1,0 +1,55 @@
+.cardShop{
+    /* display: grid;
+    grid-column: auto; */
+    width: 300px;
+    height: 410px;
+    cursor: pointer;
+}
+.cardShop:hover{
+    transform:scale(1.1);
+    box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.2);
+}
+.div{
+    width: 53px;
+    height: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #2C5E46;
+    position: absolute;
+    z-index: 3;
+    color: white;
+    text-align: center;
+text-transform: uppercase;
+    margin: 19px 19px;
+}
+.CardShopIcon{
+    position: absolute;
+    width: 300px;
+    height:334px ;
+}
+.cardShopText{
+    display: flex;
+    justify-content: space-between;
+    margin:0 25px 25px 7px;
+}
+
+
+.imageField{
+    position: relative;
+    margin-bottom: 25px;
+
+    width: 300px;
+    height:334px ;
+
+}
+
+.heart{
+    position: absolute;
+    /* top: 20px; */
+    /* right: 19px; */
+    /* display: flex; */
+    margin: 20px 19px 296px 261px ;
+    /* border: #2C5E46; */
+}
+

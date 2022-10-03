@@ -1,0 +1,25 @@
+.contact{
+    margin: 0 auto;
+    width: 333px;
+    margin-bottom: 93px;
+    /* align-items: center;
+     */
+     /* display: flex;
+     align-items: center; */
+}
+.contactTitle{
+    margin:32px 0 42px;
+}
+.contactIcon{
+    margin: 0 13px 3px 3px;
+}
+.contact-icon{
+    width: 17px;
+    height: 17px;
+    padding-right:  13px ;
+}
+.contact-icons{
+    width: 16px;
+    height: 16px;
+    /* margin-bottom: 3px; */
+}

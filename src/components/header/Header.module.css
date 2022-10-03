@@ -1,0 +1,18 @@
+
+
+.header {
+  max-width: 1438px;
+    top: 0;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    margin-bottom: 53px;
+  }
+
+.main-logo{
+  margin-top:28px;
+  margin-bottom:25px;
+  margin-left: 76px;
+  width: 113px;
+}  
+  

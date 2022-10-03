@@ -1,0 +1,50 @@
+.All{
+    display: flex;
+    flex-direction: row;
+    gap: 67px;
+    justify-content: center;
+    margin-top: 58px;
+}
+.filters{
+    width: 261px;
+}
+.currentPage{
+    width: 960px;
+    display: flex;
+    gap: 30px;
+    flex-wrap: wrap;
+    margin-bottom: 30px;
+}
+.h3{
+    text-align: left !important;
+}
+
+.selecter{
+    display: flex;
+    width: 100%;
+    height: 53px;
+    border: 1px solid #D8D8D8;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    padding-left: 12px;
+    outline: none;
+}
+
+.selecter:last-of-type{
+    margin-bottom: 44px;
+}
+
+.Price{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 39px;
+}
+
+.pagination_bar{
+    justify-content: center;
+    margin-bottom: 62px;
+}
+
+#filter_search{
+    margin-bottom: 63px;
+}

@@ -1,0 +1,38 @@
+.BuyNow{
+    position: relative;
+    width: 379px;
+    height:211px ;
+    /* color: #F0EFF4; */
+    background-color: #F0EFF4;
+    margin-bottom: 89px;
+    
+}
+.imgBuyNow{
+    position: absolute;
+    display: flex;
+    /* flex-direction: column; */
+    /* width: 272px; */
+    bottom: 0;
+}
+.subTitleCardBuy{
+    width: 171px;
+    margin:53px auto 18px 25px ;
+  
+}
+.LinkBuyNow{
+    margin: auto auto 6px 25px;
+    position: relative;
+}
+.LinkBuyNow:hover::after{
+    position: absolute;
+    bottom: -6px;
+    left: 0;    
+    content: '';
+    width: 31px;
+    height: 0px;
+    border-bottom: 1.5px solid #2C5E46;
+
+
+}
+/* position: absolute;
+top: 229px; */

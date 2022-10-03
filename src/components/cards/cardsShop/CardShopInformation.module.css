@@ -1,0 +1,90 @@
+.ShopCardInformation{
+    display: flex;
+    gap: 64px;
+    justify-content: center;
+}
+.titlecoint{
+    display: flex;
+    justify-content: space-between;
+}
+.titleShopCard{
+    
+    width: 332px;
+    text-align: left !important;
+    margin-top: 0 !important;
+    
+}
+.imgAll{
+    display: flex;
+    /* column-gap: -5px; */
+
+}
+.img-card{
+    width: 540px;
+    margin-bottom: 123px;
+   
+}
+.img-card1{
+    /* position: absolute;
+    z-index: 2; */
+    display: flex;
+    flex-direction: column;
+    width: 166px;
+    justify-content: space-between;
+    height: 600px;
+    
+    }
+    .img-card2:hover{
+        cursor: pointer;
+        transform: scale(2);
+    }
+.img-card2{
+    /* position: absolute; */
+    /* z-index: 2; */
+    /* display: flex; */
+    /* flex-direction: column; */
+    width: 166px;
+    }
+    .imgTextGlobal{
+        margin-bottom: 70px;
+        display: flex;
+        flex-direction: column;
+        gap: 45px;
+    }
+    .img{
+        height: 44px;
+        margin-right: 55px;
+    }
+    .imgText{
+        display: flex;
+        justify-content: space-evenly;
+        
+    }
+    .size{
+        margin-bottom: 51px;
+    }
+    .btnText{
+        background-color: black;
+        width: 360px;
+        height: 53px;
+        cursor: pointer;
+        transform: scale(1.1);
+        margin-left: 23px;
+    }
+
+/* .CardPlant{
+    display: flex;
+    margin-top: 2px;
+    margin-bottom: 115px;
+}
+*/
+
+
+.imgTextP{
+    max-width: 343px;
+    /* width: 100%; */
+}
+.counterBTN{
+    display: flex;
+    column-gap: 23px;
+}

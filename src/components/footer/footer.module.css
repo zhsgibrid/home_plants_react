@@ -1,0 +1,85 @@
+
+footer{
+max-width: 1438px;
+width: 100%;
+/* display: flex; */
+position: absolute;
+height: 326px;
+
+}
+
+.footerInformation{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-bottom: 40px;
+}
+.footerList{
+    display: flex;
+    flex-direction: row;
+}
+
+.h2_c{
+    margin-top: 0;
+}
+
+.footerText{
+    width: auto;
+    margin-top: 0;
+    margin-right: 90px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 7px;
+
+}
+
+.copyright{
+    display: flex;
+    justify-content: center;
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: center;
+    color: #8C8C8C;
+    /* margin-bottom:19px auto 10px; */
+
+}
+.footerTextNews{
+    width: 429px;
+    margin-bottom: 16px;
+}
+.inpEmail{
+    width: 282px;
+    height: 50px;
+    padding: 0;
+    margin: 0;
+    background-color: white;
+    border: 1px solid #707070;
+    box-sizing: border-box;
+}
+.inpEmail::placeholder{
+    padding-left: 34px;
+    font-family: 'Belleza';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+}
+
+.btnLetter{
+    width: 173px;
+    height: 50px;
+    padding: 0;
+    color: white;
+    background-color: #000000;
+    margin-left: 1px;
+    font-family: 'Belleza';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    color: #FFFAFA;
+    border: none;
+}

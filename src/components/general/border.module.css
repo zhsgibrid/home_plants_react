@@ -1,0 +1,11 @@
+.border{
+    position: absolute;
+    max-width: 1294px;
+    width: 100%;
+    height: 0px;
+    margin-left: 5.28%;
+    top: 109px;
+    border: 1px solid #D8D8D8;
+    margin-bottom: 19px;
+    z-index: 3;
+  }

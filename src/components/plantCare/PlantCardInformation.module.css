@@ -1,0 +1,17 @@
+.CardPlant{
+    display: flex;
+    margin-top: 2px;
+    margin-bottom: 115px;
+}
+.contaxtCardPlant{
+    width: 682px;
+}
+.img-card{
+width: 488px;
+height: 592px;
+margin: 0 69px 0 76px;
+}
+
+.textCardPlant{
+    margin-top: 0;
+}

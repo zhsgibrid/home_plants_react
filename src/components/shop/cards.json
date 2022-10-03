@@ -1,0 +1,123 @@
+[
+    {
+        "title": "Lilium Longiflorum",
+        "coin": 25,
+        "icon": "/img/Img01.jpg",
+        "label": "21",
+        "sub_image": [
+            "/img/shop_card1.jpg",
+            "/img/shop_card2.jpg",
+            "/img/shop_card3.jpg"
+        ]
+    },
+    {
+        "title": "Ficus Lyrata",
+        "coin": 20,
+        "icon": "/img/Img02.jpg",
+        "label": "",
+        "sub_image": [
+            "/img/shop_card1.jpg",
+            "/img/shop_card2.jpg",
+            "/img/shop_card3.jpg"
+        ]
+    },
+    {
+        "title": "Philodendron",
+        "coin": 30,
+        "icon": "/img/Img03.jpg",
+        "label": "",
+        "sub_image": [
+            "/img/shop_card1.jpg",
+            "/img/shop_card2.jpg",
+            "/img/shop_card3.jpg"
+        ]
+    },
+    {
+        "title": "Monstera Deliciosa",
+        "coin": 20,
+        "icon": "/img/Img04.jpg",
+        "label": "new",
+        "sub_image": [
+            "/img/shop_card1.jpg",
+            "/img/shop_card2.jpg",
+            "/img/shop_card3.jpg"
+        ]
+    },
+    {
+        "title": "Pothos Golden",
+        "coin": 20,
+        "icon": "/img/Img01.jpg",
+        "label": "",
+        "sub_image": [
+            "/img/shop_card1.jpg",
+            "/img/shop_card2.jpg",
+            "/img/shop_card3.jpg"
+        ]
+    },
+    {
+        "title": "Philodendron",
+        "coin": 35,
+        "icon": "/img/Img05.jpg",
+        "label": "",
+        "sub_image": [
+            "/img/shop_card1.jpg",
+            "/img/shop_card2.jpg",
+            "/img/shop_card3.jpg"
+        ]
+    },
+    {
+        "title": "Monstera Deliciosa",
+        "coin": 20,
+        "icon": "/img/Img06.jpg",
+        "label": "",
+        "sub_image": [
+            "/img/shop_card1.jpg",
+            "/img/shop_card2.jpg",
+            "/img/shop_card3.jpg"
+        ]
+    },
+    {
+        "title": "Monstera",
+        "coin": 20,
+        "icon": "/img/Img07.jpg",
+        "label": "",
+        "sub_image": [
+            "/img/shop_card1.jpg",
+            "/img/shop_card2.jpg",
+            "/img/shop_card3.jpg"
+        ]
+    },
+    {
+        "title": "Philodendron",
+        "coin": 30,
+        "icon": "/img/Img08.jpg",
+        "label": "",
+        "sub_image": [
+            "/img/shop_card1.jpg",
+            "/img/shop_card2.jpg",
+            "/img/shop_card3.jpg"
+        ]
+    },
+    {
+        "title": "Monstera Deliciosa",
+        "coin": 20,
+        "icon": "/img/Img06.jpg",
+        "label": "",
+        "sub_image": [
+            "/img/shop_card1.jpg",
+            "/img/shop_card2.jpg",
+            "/img/shop_card3.jpg"
+        ]
+    },
+    {
+        "title": "Monstera",
+        "coin": 20,
+        "icon": "/img/Img07.jpg",
+        "label": "",
+        "sub_image": [
+            "/img/shop_card1.jpg",
+            "/img/shop_card2.jpg",
+            "/img/shop_card3.jpg"
+        ]
+    }
+]   
