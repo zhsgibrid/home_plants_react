@@ -5,8 +5,8 @@ import "react-multi-carousel/lib/styles.css";
 
 import "./card_slider.css";
 
-import Shift from '../../styles/varibles/shift';
-import { Cards_list } from '../shop/shop';
+// import Shift from '../../styles/varibles/shift';
+import { CardsList } from '../shop/shop';
 
 
 const responsive = {
@@ -31,8 +31,8 @@ const responsive = {
 
 const CustomArrow = ({ onClick, ...rest }) => {
     const {
-        onMove,
-        carouselState: { currentSlide, deviceType },
+        // onMove,
+        // carouselState: { currentSlide, deviceType },
         direction
     } = rest;
 
@@ -64,7 +64,7 @@ function CardSlider(props){
             centerMode={true}>
                 {/* {cards_} */}
             {[...Array(card_num).keys()].map((card_num_i, i) => (
-                <Cards_list key={i} from={card_num_i} num={1}/>
+                <CardsList key={i} from={card_num_i} num={1}/>
             ))}
         </Carousel>
     );

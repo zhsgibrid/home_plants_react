@@ -1,4 +1,4 @@
-import {useMemo, useState} from "react";
+import {useMemo} from "react";
 import Shift from '../../styles/varibles/shift';
 
 import './pagination.css';

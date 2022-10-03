@@ -70,7 +70,7 @@ function Home(){
                 </div>
                 <div>
                 <p style={Shift.AboutH4}>30 day health guarantee</p>
-                 <p style={Shift.AboutText}> For all our happy plants. <a className={classes.Guarantees} href="">Read more about guarantees.</a> </p>
+                 <p style={Shift.AboutText}> For all our happy plants. <span className={classes.Guarantees}>Read more about guarantees.</span> </p>
 
                 </div>
               </div>

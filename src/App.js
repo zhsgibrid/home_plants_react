@@ -1,8 +1,8 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { Fragment } from 'react';
 import  { BrowserRouter, Routes, Route } from "react-router-dom";
 
-import Counter from './components/counter/counter';
+// import Counter from './components/counter/counter';
 import './styles/App.css';
 import Header from './components/header/Header';
 import Home from './components/home/home';
@@ -13,7 +13,7 @@ import Contacts from './components/contacts/contacts';
 import {AuthBase, ForgotPass} from './components/Auth/Auth';
 import Footer from './components/footer/footer';
 import Error404 from './components/error404/error404';
-import PlantCard from './components/plantCare/PlantCardInformation'; 
+import PlantCard from './components/plantCare/PlantCard'; 
 // import PlantCard from './PlantCardInformation';
 
 

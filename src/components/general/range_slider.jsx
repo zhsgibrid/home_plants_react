@@ -2,7 +2,7 @@
 import React, { useCallback, useEffect, useState, useRef } from "react";
 
 import './range_slider.css';
-import Shift from '../../styles/varibles/shift';
+// import Shift from '../../styles/varibles/shift';
 
 
 // function RangeSlider(props){

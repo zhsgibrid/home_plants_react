@@ -42,7 +42,7 @@ function NavBar(props){
 }
 
 function NavItem(props){
-  const [open, setOpen] = useState(false);
+  // const [open, setOpen] = useState(false);
   const style = props.style;
   const to = props.to;
   const icon = props.icon;
@@ -128,10 +128,10 @@ function DropdownMenu(props) {
     setMenuHeight(dropdownRef.current?.firstChild.offsetHeight)
   }, []);
   
-  function calcHeight(el) {
-    const height = el.offsetHeight;
-    setMenuHeight(height);
-  };
+  // function calcHeight(el) {
+  //   const height = el.offsetHeight;
+  //   setMenuHeight(height);
+  // };
   
   return (
     <div className={classes.dropdown} style={{ height: menuHeight }} ref={dropdownRef}>

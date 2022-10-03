@@ -23,7 +23,7 @@ function PlantCare(props) {
         return cards_list.map((card, i) => (
             <PlantCareCard key={i} id={i} card_obj={card}/>
         )) 
-      }, [currentPage]);
+      }, [currentPage, pageSize]);
 
       
 

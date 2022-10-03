@@ -4,7 +4,7 @@ import {useLocation} from "react-router-dom";
 import Shift from "../../styles/varibles/shift";
 
 import Data from './plantCareData.json';
-import classes from '../plantCare/PlantCardInformation.module.css';
+import classes from '../plantCare/PlantCard.module.css';
 
 
 function PlantCard(props) {

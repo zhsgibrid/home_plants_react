@@ -29,11 +29,12 @@ export function CardBuyNow(props) {
 
     )
 }
- function BuyNow(props) {
-return(
-<a href="">Buy now</a>
 
-)
+//  function BuyNow(props) {
+// return(
+// <a href="">Buy now</a>
+
+// )
 
 
- }
+//  }

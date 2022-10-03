@@ -15,7 +15,7 @@ import ShopCardInformation from '../cards/cardsShop/CardShopInformation';
 
 import cards from './cards.json';
 
-export function Cards_list(props){
+export function CardsList(props){
     let cards_list = cards;
     const num = props.num;
     const from = props.from;
@@ -36,12 +36,12 @@ export function Cards_list(props){
     )
 }
 
-function ProductShop(props) {
-    const card = cards[props.cardId];
-    return (
-        <></>
-    )
-}
+// function ProductShop(props) {
+//     const card = cards[props.cardId];
+//     return (
+//         <></>
+//     )
+// }
 
 
 function Shop(props) {
@@ -56,8 +56,8 @@ function Shop(props) {
 
     const currentCards = useMemo(() => {
       const firstIndex = (currentPage - 1) * pageSize;
-      return <Cards_list from={firstIndex} num={pageSize}/> ;
-    }, [currentPage]);
+      return <CardsList from={firstIndex} num={pageSize}/> ;
+    }, [currentPage, pageSize]);
 
     // const activate_page = props.activate_page;
     useBorderActive(0, activate_page);

@@ -1,4 +1,4 @@
-import {useBorderActive} from '../../global_vars&funcs';
+// import {useBorderActive} from '../../global_vars&funcs';
 import Shift from '../../styles/varibles/shift';
 import classes from './error404.module.css';
 import backImgError from '../../img/backImgError.png';
